@@ -1,0 +1,100 @@
+{
+  "photos": {
+    "spring": {
+      "file": "spring.jpg",
+      "photographer": "Aaron Burden",
+      "profile": "@aaronburden",
+      "url": "https://unsplash.com/photos/xG8IQMqMITM",
+      "description": "Frühlingsblumen in voller Blüte",
+      "descriptionEnglish": "Spring flowers in full bloom",
+      "matchesText": "mailied"
+    },
+    "books": {
+      "file": "books.jpg",
+      "photographer": "Patrick Tomasso",
+      "profile": "@impatrickt",
+      "url": "https://unsplash.com/photos/Oaqk7qqNh_c",
+      "description": "Aufgeschlagene alte Bücher, Studierzimmer-Atmosphäre",
+      "descriptionEnglish": "Old open books, study room atmosphere",
+      "matchesText": "faust"
+    },
+    "river": {
+      "file": "river.jpg",
+      "photographer": "Luca Bravo",
+      "profile": "@lucabravo",
+      "url": "https://unsplash.com/photos/zAjdgNXsMeg",
+      "description": "Wilder Fluss mit Stromschnellen und Felsen",
+      "descriptionEnglish": "Wild river with rapids and rocks",
+      "matchesText": "buergschaft"
+    },
+    "blacksmith": {
+      "file": "blacksmith.jpg",
+      "photographer": "Jonathan Bean",
+      "profile": "@jonathanbean",
+      "url": "https://unsplash.com/photos/zfrELhxxY4E",
+      "description": "Schmied bei der Arbeit mit Feuer und Metall",
+      "descriptionEnglish": "Blacksmith working with fire and metal",
+      "matchesText": "glocke"
+    },
+    "birds": {
+      "file": "birds.jpg",
+      "photographer": "Boris Smokrovic",
+      "profile": "@borisworkshop",
+      "url": "https://unsplash.com/photos/lyvCvA8sKGc",
+      "description": "Vogel auf einem Zweig",
+      "descriptionEnglish": "Bird on a branch",
+      "matchesText": "reineke"
+    },
+    "nature": {
+      "file": "nature.jpg",
+      "photographer": "Samuel Ferrara",
+      "profile": "@samferrara",
+      "url": "https://unsplash.com/photos/1527pjeb6jg",
+      "description": "Berglandschaft mit Nebel in den Schweizer Alpen",
+      "descriptionEnglish": "Mountain landscape with fog in the Swiss Alps",
+      "matchesText": "erlkoenig"
+    },
+    "city": {
+      "file": "city.jpg",
+      "photographer": "Pedro Lastra",
+      "profile": "@peterlaster",
+      "url": "https://unsplash.com/photos/Nyvq2juw4_o",
+      "description": "New York City Skyline bei Nacht mit Wolkenkratzern",
+      "descriptionEnglish": "New York City skyline at night with skyscrapers",
+      "matchesText": null
+    },
+    "cat": {
+      "file": "cat.jpg",
+      "photographer": "Manja Vitolic",
+      "profile": "@madhatterzone",
+      "url": "https://unsplash.com/photos/gKXKBY-C-Dk",
+      "description": "Nahaufnahme einer orangefarbenen Katze mit grünen Augen",
+      "descriptionEnglish": "Close-up of an orange cat with green eyes",
+      "matchesText": null
+    }
+  },
+  "queries": {
+    "positive": [
+      { "query": "colorful spring flowers blooming in the sun", "expectImage": "spring" },
+      { "query": "old books and manuscripts in a library", "expectImage": "books" },
+      { "query": "wild river with rapids and rushing water", "expectImage": "river" },
+      { "query": "blacksmith working with fire and metal in a forge", "expectImage": "blacksmith" },
+      { "query": "bird sitting on a tree branch singing", "expectImage": "birds" },
+      { "query": "foggy mountain landscape with peaks", "expectImage": "nature" },
+      { "query": "modern city skyline with skyscrapers at night", "expectImage": "city" },
+      { "query": "cute orange cat with green eyes", "expectImage": "cat" }
+    ],
+    "negative": [
+      { "query": "astronaut floating in outer space" },
+      { "query": "underwater coral reef with tropical fish" },
+      { "query": "ancient egyptian pyramids in the desert" },
+      { "query": "pizza with pepperoni and cheese" }
+    ]
+  },
+  "license": {
+    "name": "Unsplash License",
+    "url": "https://unsplash.com/license",
+    "commercial": true,
+    "attribution": "not required but appreciated"
+  }
+}
