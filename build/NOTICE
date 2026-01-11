@@ -1,0 +1,62 @@
+# SigLIP Embeddings API - Third Party Notices
+
+This Docker container includes components from Google Research.
+
+## SigLIP Model
+
+Copyright 2024-2025 Google LLC
+https://github.com/google-research/big_vision
+
+The following components are derived from or use code from the
+google/siglip2-base-patch16-224 model:
+
+- Model weights and configuration (google/siglip2-base-patch16-224)
+- Vision and text encoder architectures
+- Tokenizer configurations
+- Cross-modal embedding logic
+
+Source: https://huggingface.co/google/siglip2-base-patch16-224
+
+### License
+
+The SigLIP model is licensed under the **Apache License 2.0**,
+as published by Google LLC.
+
+Key terms of the Apache License 2.0:
+
+- Commercial use is permitted without restrictions
+- Patent grant included
+- No trademark rights granted
+- Includes limitation of liability
+
+For the full license text, see:
+https://www.apache.org/licenses/LICENSE-2.0
+
+## Modifications by Quadux IT GmbH
+
+The following modifications and additions were made by Quadux IT GmbH
+and are licensed under the Apache License 2.0 (see LICENSE file):
+
+- Dockerfile and container configuration
+- FastAPI server wrapper (app.py - Quadux-specific parts)
+- Start scripts (start.bat, start.sh)
+- Test suite and test images/texts
+- Documentation (README.md)
+- Build and deployment automation
+
+These modifications are clearly marked in the source files with the
+Quadux IT GmbH copyright header.
+
+## Test Assets
+
+### Test Images
+
+The test images in `test/photos/` are from Unsplash and are subject to
+the [Unsplash License](https://unsplash.com/license) (free commercial use,
+no attribution required, but credits provided in test/photos/SOURCES.md).
+
+### Test Texts
+
+The classic literature texts in `test/texts/classic_texts.js` are in the
+public domain (copyright expired). Sources and authors are documented in
+test/texts/SOURCES.md.

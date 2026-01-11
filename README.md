@@ -9,8 +9,8 @@ Author: Walter Hoffmann
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](LICENSE)
-[![Docker Hub](https://img.shields.io/badge/docker-quaduxit%2Fsiglip2--embeddings-blue.svg)](https://hub.docker.com/r/quaduxit/siglip-embeddings)
-[![GitHub](https://img.shields.io/badge/github-quaduxit%2Fsiglip2--embeddings-black.svg)](https://github.com/quaduxit/siglip-embeddings)
+[![Docker Hub](https://img.shields.io/badge/docker-quaduxit%2Fsiglip2--embeddings-blue.svg)](https://hub.docker.com/r/quaduxit/siglip2-embeddings)
+[![GitHub](https://img.shields.io/badge/github-quaduxit%2Fsiglip2--embeddings-black.svg)](https://github.com/quaduxit/siglip2-embeddings)
 
 Cross-Modal Text-Image Embeddings that **actually work**!
 

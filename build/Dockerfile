@@ -40,6 +40,8 @@ RUN python download_model.py
 # ENV HF_HUB_OFFLINE=1
 # ENV TRANSFORMERS_OFFLINE=1
 
+COPY LICENSE ./LICENSE
+COPY NOTICE ./NOTICE
 # Copy application
 COPY app.py .
 
