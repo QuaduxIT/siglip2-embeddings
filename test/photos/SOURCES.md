@@ -34,21 +34,19 @@ Alle Bilder stammen von [Unsplash](https://unsplash.com) und sind unter der [Uns
 - **Passend zu:** Goethe - Faust (Gelehrtenstube)
 
 ### 5. river.jpg - Fluss/Stromschnellen
-- **HINWEIS:** Bild muss ersetzt werden! Aktuelles Bild zeigt gruselige Silhouette hinter Glas.
-- **Empfohlenes Ersatzbild:**
-  - **Fotograf:** Luca Bravo
-  - **Unsplash Profil:** [@lucabravo](https://unsplash.com/@lucabravo)
-  - **Originalbild:** https://unsplash.com/photos/IfsvDZBSeWc
-  - **Beschreibung:** Fluss mit Stromschnellen und Felsen in Berglandschaft
+- **Fotograf:** Luca Bravo
+- **Unsplash Profil:** [@lucabravo](https://unsplash.com/@lucabravo)
+- **Originalbild:** https://unsplash.com/photos/IfsvDZBSeWc
+- **Beschreibung:** Fluss mit Stromschnellen und Felsen in Berglandschaft
+- **Auflösung:** 1920px (FullHD)
 - **Passend zu:** Schiller - Die Bürgschaft (brausende Flut)
 
 ### 6. blacksmith.jpg - Schmied/Handwerk
-- **HINWEIS:** Bild muss ersetzt werden! Aktuelles Bild zeigt Holzarbeiter/Drechsler, nicht Schmied.
-- **Empfohlenes Ersatzbild:**
-  - **Fotograf:** Jonathan Bean
-  - **Unsplash Profil:** [@jonathanbean](https://unsplash.com/@jonathanbean)
-  - **Originalbild:** https://unsplash.com/photos/aZGNnaXkHNI
-  - **Beschreibung:** Hufschmied bei der Arbeit, schmiedet Hufeisen
+- **Fotograf:** Jonathan Bean
+- **Unsplash Profil:** [@jonathanbean](https://unsplash.com/@jonathanbean)
+- **Originalbild:** https://unsplash.com/photos/aZGNnaXkHNI
+- **Beschreibung:** Hufschmied bei der Arbeit, schmiedet Hufeisen
+- **Auflösung:** 1920px (FullHD)
 - **Passend zu:** Schiller - Das Lied von der Glocke (Glockenguss)
 
 ### 7. birds.jpg - Vögel
