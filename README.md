@@ -285,3 +285,7 @@ Die Testtexte sind gemeinfreie klassische Literatur (Public Domain) mit Quellena
 > - **Google Research:** [github.com/google-research/big_vision](https://github.com/google-research/big_vision)
 >
 > &nbsp;
+
+## Impressum
+
+[Impressum Quadux IT GmbH](https://quadux.it)
