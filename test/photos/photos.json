@@ -2,11 +2,11 @@
   "photos": {
     "spring": {
       "file": "spring.jpg",
-      "photographer": "Aaron Burden",
-      "profile": "@aaronburden",
-      "url": "https://unsplash.com/photos/xG8IQMqMITM",
-      "description": "Frühlingsblumen in voller Blüte",
-      "descriptionEnglish": "Spring flowers in full bloom",
+      "photographer": "Sergey Shmidt",
+      "profile": "@monstercritic",
+      "url": "https://unsplash.com/photos/koy6FlCCy5s",
+      "description": "Orangefarbene California Poppies (Kalifornischer Mohn) vor blauem Himmel",
+      "descriptionEnglish": "Orange California Poppies against blue sky",
       "matchesText": "mailied"
     },
     "books": {
@@ -22,27 +22,27 @@
       "file": "river.jpg",
       "photographer": "Luca Bravo",
       "profile": "@lucabravo",
-      "url": "https://unsplash.com/photos/zAjdgNXsMeg",
-      "description": "Wilder Fluss mit Stromschnellen und Felsen",
-      "descriptionEnglish": "Wild river with rapids and rocks",
+      "url": "https://unsplash.com/photos/IfsvDZBSeWc",
+      "description": "Fluss mit Stromschnellen und Felsen in Berglandschaft",
+      "descriptionEnglish": "River with rapids and rocks in mountain landscape",
       "matchesText": "buergschaft"
     },
     "blacksmith": {
       "file": "blacksmith.jpg",
       "photographer": "Jonathan Bean",
       "profile": "@jonathanbean",
-      "url": "https://unsplash.com/photos/zfrELhxxY4E",
-      "description": "Schmied bei der Arbeit mit Feuer und Metall",
-      "descriptionEnglish": "Blacksmith working with fire and metal",
+      "url": "https://unsplash.com/photos/aZGNnaXkHNI",
+      "description": "Hufschmied bei der Arbeit, schmiedet Hufeisen",
+      "descriptionEnglish": "Farrier at work, forging a horseshoe",
       "matchesText": "glocke"
     },
     "birds": {
       "file": "birds.jpg",
       "photographer": "Boris Smokrovic",
       "profile": "@borisworkshop",
-      "url": "https://unsplash.com/photos/lyvCvA8sKGc",
-      "description": "Vogel auf einem Zweig",
-      "descriptionEnglish": "Bird on a branch",
+      "url": "https://unsplash.com/photos/Pu553qm9Rbc",
+      "description": "Blau-orangener Eisvogel (Kingfisher) sitzt auf einem Zweig",
+      "descriptionEnglish": "Blue-orange kingfisher sitting on a branch",
       "matchesText": "reineke"
     },
     "nature": {
@@ -59,8 +59,8 @@
       "photographer": "Pedro Lastra",
       "profile": "@peterlaster",
       "url": "https://unsplash.com/photos/Nyvq2juw4_o",
-      "description": "New York City Skyline bei Nacht mit Wolkenkratzern",
-      "descriptionEnglish": "New York City skyline at night with skyscrapers",
+      "description": "Chicago Skyline bei Sonnenuntergang mit Wolkenkratzern",
+      "descriptionEnglish": "Chicago skyline at sunset with skyscrapers",
       "matchesText": null
     },
     "cat": {
@@ -68,8 +68,8 @@
       "photographer": "Manja Vitolic",
       "profile": "@madhatterzone",
       "url": "https://unsplash.com/photos/gKXKBY-C-Dk",
-      "description": "Nahaufnahme einer orangefarbenen Katze mit grünen Augen",
-      "descriptionEnglish": "Close-up of an orange cat with green eyes",
+      "description": "Schwarz-weiße Katze mit grünen Augen liegt auf braunem Bambusstuhl",
+      "descriptionEnglish": "Black and white cat with green eyes lying on brown bamboo chair",
       "matchesText": null
     }
   },
